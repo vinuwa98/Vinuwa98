@@ -3,8 +3,9 @@
 </div>
 <h1>Hi 👋, I'm Vinod Warnakulasooriya</h1>
     <h3>A passionate Software Engineering student from Sri Lanka</h3>
-    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400">
-
+    <div align="right">
+        <img src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif" alt="Coding" width="400">
+    </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinuwa98&label=Profile%20views&color=0e75b6&style=flat" alt="vinuwa98" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
