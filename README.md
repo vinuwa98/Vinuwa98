@@ -1,7 +1,7 @@
 <!-- Header section -->
-![MasterHead](https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif)
-
-
+ <div style="text-align: center; flex: 1; item-align: center;">
+        <img src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif" alt="MasterHead" />
+</div>
 <h1 align="center">Hi 👋, I'm Vinod Warnakulasooriya</h1>
 <h3 align="center">A passionate Software Engineering student from Sri Lanka</h3>
 
