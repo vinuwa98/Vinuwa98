@@ -1,5 +1,5 @@
   <div class="container">
-        <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Master Head">
+        <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Master Head">
         <h1>Hi 👋, I'm Vinod Warnakulasooriya</h1>
         <h3>A passionate Software Engineering student from Sri Lanka</h3>
         <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400">
