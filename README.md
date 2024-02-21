@@ -1,5 +1,6 @@
 <!-- Header section -->
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://drive.google.com/file/d/1j8h7Fv8dYPehIE9gGMxKUU5vxg6OheOB.gif)
+
 
 <h1 align="center">Hi 👋, I'm Vinod Warnakulasooriya</h1>
 <h3 align="center">A passionate Software Engineering student from Sri Lanka</h3>
