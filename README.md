@@ -1,7 +1,9 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
+
 <h1 align="center">Hi 👋, I'm Vinod Warnakulasooriya</h1>
 <h3 align="center">A passionate Software Engineering student from Sri Lanka</h3>
-(img align="right" alt="Coding" width="400" src="<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/U0zb" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>")
-
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinuwa98&label=Profile%20views&color=0e75b6&style=flat" alt="vinuwa98" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
