@@ -39,8 +39,8 @@
 <!-- GitHub stats centered -->
 <div>
     <div align="left">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinuwa98&show_icons=true&locale=en&layout=compact" alt="vinuwa981" height="200" />
-        <img align="right" src="https://github-readme-stats.vercel.app/api?username=vinuwa98&show_icons=true&locale=en" alt="vinuwa982" height="200" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinuwa98&show_icons=true&locale=en&layout=compact" alt="vinuwa981" height="190" />
+        <img align="right" src="https://github-readme-stats.vercel.app/api?username=vinuwa98&show_icons=true&locale=en" alt="vinuwa982" height="190" />
     </div>
     <div align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinuwa98&" alt="vinuwa983" height="150" width="800" />
