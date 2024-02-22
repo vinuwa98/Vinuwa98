@@ -37,15 +37,13 @@
 
 <!-- GitHub stats with customized positions -->
 <!-- GitHub stats centered -->
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <div style="text-align: left; flex: 1;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinuwa98&show_icons=true&locale=en&layout=compact" alt="vinuwa981" />
-    </div>
-    <div style="text-align: right; flex: 1;">
-        <img src="https://github-readme-stats.vercel.app/api?username=vinuwa98&show_icons=true&locale=en" alt="vinuwa982" />
-    </div>
-    <div style="text-align: center; flex: 100%; margin-top: 20px;">
+<div>
+    <div align="left">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinuwa98&" alt="vinuwa983" />
+        <img align="right" src="https://github-readme-stats.vercel.app/api?username=vinuwa98&show_icons=true&locale=en" alt="vinuwa982" />
+    </div>
+    <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinuwa98&show_icons=true&locale=en&layout=compact" alt="vinuwa981" />
     </div>
 </div>
 
