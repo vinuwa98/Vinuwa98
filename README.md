@@ -1,8 +1,3 @@
-<!-- Header section -->
-<div align="center">
-    <img src="https://github.com/vinuwa98/Vinuwa98/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.gif" alt="MasterHead" />
-</div>
-
 <h1 align="center">Hi 👋, I'm Vinod Warnakulasooriya</h1>
 <h3 align="center">A passionate Software Engineering student from Sri Lanka</h3>
 
