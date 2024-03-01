@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vinod Warnakulasooriya</h1>aaaa
+<h1 align="center">Hi 👋, I'm Vinod Warnakulasooriya</h1>aaaaa
 <h3 align="center">A passionate Software Engineering student from Sri Lanka</h3>
 
 <!-- Image for coding -->
