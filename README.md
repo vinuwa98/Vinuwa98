@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **React, Kotlin, Java (Android Development)**
 
-- 💬 Ask me about **JavaScript, HTML, CSS, jQuery, Python**
+- 💬 Ask me about **JavaScript, HTML, CSS, jQuery, Pythona**
 
 - 📫 How to reach me **Vinuwa98@outlook.com & https://www.instagram.com/vinuwa.social/**
 
