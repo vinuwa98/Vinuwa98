@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinod Warnakulasooriyaa</h1>
 
-<h3 align="center">A passionate Software Engineering student from Sri Lankaa</h3>
+<h3 align="center">A passionate Software Engineering student from Sri Lanka</h3>
 
 
 <!-- Image for coding -->
