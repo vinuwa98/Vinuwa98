@@ -17,7 +17,7 @@
 <!-- Personal info -->
 - 🔭 I’m currently working on [Open Sesame(University Network)](https://github.com/vinuwa98/Open_Sesame)
 
-- 🌱 I’m currently learning **React, Kotlin, Java (Android Development)**
+- 🌱 I’m currently learning **React, Framer Motion, Java (Android Development)**
 
 - 💬 Ask me about **JavaScript, HTML, CSS, jQuery, Python**
 
